@@ -14,7 +14,7 @@ Change into the `3sixty` directory
 
 ## Step 3
 
-Add your Telegram Bot Token into the `.env` file
+Create a .env file from the whatsapp message you recieved and add your Telegram Bot Token into the `.env` file
 
 
 ## Step 4
