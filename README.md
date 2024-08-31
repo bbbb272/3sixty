@@ -33,6 +33,7 @@ Run this code to get your CHAT_ID
 node mainClientID.js
 ```
 
+Find your bot on telegram, enter its chats, send a random messagw to it, and it will return a CHAT-ID
 
 ## Step 6
 
