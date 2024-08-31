@@ -18,6 +18,9 @@ Add your Telegram Bot Token into the `.env` file
 
 
 ## Step 4
+
+Run this in your terminal
+
 ```angular2html
 npm install openai node-telegram-bot-api winston sharp dotenv @google/generative-ai telegraf screenshot-desktop
 ```
