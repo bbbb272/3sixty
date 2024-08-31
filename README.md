@@ -14,7 +14,7 @@ Change into the `3sixty` directory
 
 ## Step 3
 
-Create a .env file from the whatsapp message you recieved and add your Telegram Bot Token into the `.env` file
+Create a `.env` file from the whatsapp message you recieved and add your Telegram Bot Token into the `.env` file
 
 
 ## Step 4
@@ -47,7 +47,7 @@ Run this code
 node mainScript.js
 ```
 
-then switch to the your test and the open telegram on phone and type `ss`
+then switch to the your test/exam and then open telegram on phone, switch to the bot your had created and then enter it's chat and type `ss`
 
 
 ### You'll get your answers now, enjay!
